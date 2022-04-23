@@ -1,5 +1,7 @@
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/SquadHat/MainDungeon/main/MainL'),true))()
 
+-- GameList
+
 -- Funky Friday
 -- Friday Night Bloxxin
 -- Critical Tower Defense
